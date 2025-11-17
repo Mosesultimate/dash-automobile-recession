@@ -22,7 +22,7 @@ An **interactive Dash dashboard** to explore automobile sales trends and underst
 1. **Ensure Python is installed** (3.8+ recommended)  
 2. **Install required libraries**:
 
-```bash
+bash
 pip install dash pandas plotly
 
 Run the dashboard:
@@ -37,12 +37,12 @@ http://127.0.0.1:8050
 
 You’ll see interactive graphs showing automobile sales trends, vehicle types, and recession periods.
 
-📝 Notes
+## 📝 Notes
 
 Make sure your dataset is in the correct folder if you’re loading external CSVs.
 
 Modify the Python script to add more filters or visualizations as needed.
 
-❤️ Contributions
+## ❤️ Contributions
 
 Feel free to fork this repo, improve the dashboard, and submit pull requests!
